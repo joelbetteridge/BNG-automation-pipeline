@@ -4,6 +4,8 @@ This repository contains an automated spatial data pipeline and feasibility asse
 
 Designed to demonstrate commercial ecological consultancy workflows, this project bridges spatial mapping in ArcGIS Pro with a custom-built Python and SQL data pipeline to execute the DEFRA metric calculations, culminated into a preliminary client-facing report.
 
+The reason for this project was to apply my recently learnt SQL skills from kaggle into a real-world applicable data pipeline. I decided to first map the sites in ArcGIS Pro to reinforce my skills and add a visual element for the feasibility assesssment.
+
 ## Project Structure
 
 ```text
