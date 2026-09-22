@@ -2,7 +2,7 @@
 
 This repository contains an automated spatial data pipeline and feasibility assessment calculating the statutory 10% Biodiversity Net Gain (BNG) target for a proposed 5.2 ha water infrastructure development. 
 
-Designed to demonstrate commercial ecological consultancy workflows, this project bridges spatial mapping in ArcGIS Pro with a custom-built Python and SQL data pipeline to execute the DEFRA metric calculations, culminating in a preliminary client-facing report.
+Designed to demonstrate commercial ecological consultancy workflows, this project bridges spatial mapping in ArcGIS Pro with a custom-built Python and SQL data pipeline to execute the DEFRA metric calculations, culminated into a preliminary client-facing report.
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ Designed to demonstrate commercial ecological consultancy workflows, this projec
 This project replicates an end-to-end environmental data science workflow for BNG assessments:
 
 1. **Spatial Mapping (ArcGIS Pro):** 
-   Digitized baseline and proposed site layouts based on UKHab classifications. Mapped the integration of a new constructed wetland retention basin and hardstanding infrastructure, then extracted area attributes.
+   Digitized baseline and proposed site layouts based on UKHab classifications. Mapped the integration of a new constructed wetland retention basin and hardstanding infrastructure, then extracted area attributes. Classifications are not realistic to the actual land, and act primarily as a demonstration.
 2. **Data Ingestion (Python/Pandas):** 
    Extracted spatial attribute data is ingested into Python alongside DEFRA BNG metric reference tables (distinctiveness, condition, significance, and creation risk multipliers).
 3. **Metric Calculation (In-Memory SQLite):** 
@@ -43,3 +43,5 @@ This project replicates an end-to-end environmental data science workflow for BN
 ## Author
 **Joel Betteridge**  
 *Final-year Ecology BSc student at the University of York, specializing in environmental data science and spatial analysis.*
+
+*This work was assisted by the use of Google Gemini for idea creation*
