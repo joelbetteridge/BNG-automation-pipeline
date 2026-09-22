@@ -44,4 +44,4 @@ This project replicates an end-to-end environmental data science workflow for BN
 **Joel Betteridge**  
 *Final-year Ecology BSc student at the University of York, specializing in environmental data science and spatial analysis.*
 
-*This work was assisted by the use of Google Gemini for idea creation*
+*This work was assisted by the use of Google Gemini for idea creation.*
